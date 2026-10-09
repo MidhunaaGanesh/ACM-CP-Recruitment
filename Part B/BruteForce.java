@@ -34,3 +34,8 @@ public class BruteForce {
         System.out.println(ans);
     }
 }
+
+// Brute Force:
+// Time Complexity: O(n^2) - checks all subarrays.
+// Space Complexity: O(n) - stores the input array.
+// If the number of inputs increase, it would almost take quadruple the time.
